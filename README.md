@@ -18,6 +18,7 @@ python maylo-track.py <ip>
 This will display detailed information about the target IP address, including the IP, hostname, system information, and MAC address.
 
 ## 📊 Example
+![image](https://github.com/user-attachments/assets/86a8f819-5cf3-4778-b5a7-ea47b521ceb1)
 
 # Command:
 
